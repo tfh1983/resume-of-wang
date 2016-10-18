@@ -1,4 +1,4 @@
 # resume-of-wang
 My resume
 
-nihao ,wo jiao wangxiaoer
+我的大名叫王小二，小名叫王大二，
